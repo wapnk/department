@@ -1,0 +1,22 @@
+
+INSERT INTO DEPARTMENT VALUES (111,'DZIAL IT');
+--INSERT INTO DEPARTMENT VALUES (2,'DZIAL MARKETINGU');
+--INSERT INTO DEPARTMENT VALUES (3,'DZIAL PRAWNY');
+--INSERT INTO DEPARTMENT VALUES (4,'DZIAL KSIEGOWOSCI');
+--
+--INSERT INTO PERSON VALUES (1,'sdjhdse', 'yjtgtrhty', 1);
+--INSERT INTO PERSON VALUES (2,'refggtrg', ' trhedfdgdfg', 1);
+--INSERT INTO PERSON VALUES (3,'rtgtrgtrg', 'ythydfdg', 1);
+--INSERT INTO PERSON VALUES (4,'rtgtrgtrg', 'judtgtfg', 1);
+--INSERT INTO PERSON VALUES (5,'juyt', 'weterter', 1);
+--INSERT INTO PERSON VALUES (6,'dskihf', 'dsfergrt', 2);
+--INSERT INTO PERSON VALUES (7,'sldjfndjs', 'trgdr', 2);
+--INSERT INTO PERSON VALUES (8,'ppiw', 'uythrtg', 2);
+--INSERT INTO PERSON VALUES (9,'rhsjfh', 'iyujghyj', 2);
+--INSERT INTO PERSON VALUES (10,'weirh', 'dgtfh', 3);
+--INSERT INTO PERSON VALUES (11,'kjerhfkhererf', 'okjughj', 3);
+--INSERT INTO PERSON VALUES (12,'htrhgrtg', 'wefewr', 4);
+--INSERT INTO PERSON VALUES (13,'wewrfsdf', 'hju', 4);
+--INSERT INTO PERSON VALUES (14,'iohihj', 'ifhgbf', 4);
+--INSERT INTO PERSON VALUES (15,'hyhtybtyh', 'ijhfdh', 4);
+--INSERT INTO PERSON VALUES (16,'erjijfh', 'sdklfjds', 4);
